@@ -6,6 +6,10 @@
 //  Copyright © 2019 Anthony Zamora. All rights reserved.
 //
 
+/*
+OBJECTIVE: To find the LCM and GCD of two numbers.
+*/
+
 #include <iostream>
 
 using namespace std;
